@@ -11,7 +11,7 @@ Here’s how it’s going down:
    
    ->  Learning resources: Free resources will be shared to guide you through the stuff.
   
-   ->  Prove it: Completed a challenge? Great! Submit a Pull Request (PR) to the `/results` directory under the respective day's folder on this GitHub repo. Include screenshots or a link proving you’ve completed the challenge. That’s how you show you’ve crushed it!
+   ->  Prove it: Completed a challenge? Great! Submit a Pull Request (PR) to the `/proofs` directory under the respective day's folder on this GitHub repo. Include screenshots or a link proving you’ve completed the challenge. That’s how you show you’ve crushed it!
   
    -> Win rewards: Complete all 100 days, prove your skills, and you’ll earn free Udemy coupons to level up even further.
 
