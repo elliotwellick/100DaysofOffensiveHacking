@@ -2,14 +2,14 @@
 ___
 We’re excited to announce our new ***#100DaysOfOffensiveHacking*** Challenges! 
 
-![enter image description here](https://i.ibb.co/Ptyy8Ln/Screenshot-20241216-175549.png)
+![](https://i.ibb.co/Ptyy8Ln/Screenshot-20241216-175549.png)
 - Here’s the deal: we’ve put together a kick4ss team of passionate hackers to create a challenging way for you to level up your offensive security skills
 
 Here’s how it’s going down:
 
-   -> Daily challenges: You’ll get one hacking challenge each day to deal with and grow your skills.
+   -> Daily challenges: You’ll get* one hacking challenge each day to deal with and grow your skills.
    
-   ->  Learning resources: Free resources will be shared to guide you through the stuff.
+   ->  Learning resources: Only Free resources will be shared to guide you through the stuff.
   
    ->  Prove it: Completed a challenge? Great! Submit a Pull Request (PR) to the `/proofs` directory under the respective day's folder on this GitHub repo. Include screenshots or a link proving you’ve completed the challenge. That’s how you show you’ve crushed it!
   
@@ -20,4 +20,26 @@ But here’s the deal:
 
 All tasks, results, and discussions will be tracked on GitHub. This isn’t just about the grind; it’s about building skills and community.
 
-Day 1 is coming up. 
+**Syllabus**:
+
+Days 1-10: Foundations
+
+Days 11-20: Recon & Enumeration
+
+Days 21-30: Exploitation
+
+Days 31-40: Post-Exploitation
+
+Days 41-50: Active Directory
+
+Days 51-60: Web Application Security
+
+Days 61-70: Wireless & IoT Security
+
+Days 71-80: Cloud Security & DevOps
+
+Days 81-90: Red Teaming, Adversarial Simulation and C2 Server setup
+
+Days 91-100: Advanced Topics and Capstone
+
+
