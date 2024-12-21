@@ -1,4 +1,4 @@
-*Networking Basics*
+# *Networking Basics*
 
 Fundamentals of computer networking by [Microsoft](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/)
 

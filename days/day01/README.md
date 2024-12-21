@@ -1,4 +1,4 @@
-*Intro to OffSec & Red Teaming* :
+# *Intro to OffSec & Red Teaming*
 
 Introduction to Offensive Security by [Tyler Ramsbey](https://www.youtube.com/watch?v=aZiEXmN6N-E) and [TryHackMe](https://tryhackme.com/r/room/offensivesecurityintro) 
 
