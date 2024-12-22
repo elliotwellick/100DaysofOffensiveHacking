@@ -20,7 +20,7 @@ But here’s the deal:
 
 All tasks, results, and discussions will be tracked on GitHub. This isn’t just about the grind; it’s about building skills and community.
 
-**Syllabus**:
+[**Syllabus**:](/days/)
 
 Days 1-10: Foundations
 
